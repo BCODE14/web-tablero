@@ -1,6 +1,8 @@
 
 # Mi Proyecto tablero con Vue
 
+Link: https://proyectotablero.netlify.app/
+
 ## Descripción
 
 Este proyecto práctico fue desarrollado utilizando el framework Vue.js, aplicando conocimientos clave en Vuex, Vue Router, Axios y Chart.js.
